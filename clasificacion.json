@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "641754b9b42c6ec240922e0c"
+  },
+  "estilo": {
+    "$oid": "64174f69b42c6ec240922e03"
+  },
+  "ronda": "Eliminatorias",
+  "nro_carrera": 1,
+  "nadadores": [
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dfc"
+      },
+      "tiempo": 28.5
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dfd"
+      },
+      "tiempo": 29.1
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dfe"
+      },
+      "tiempo": 27.5
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dff"
+      },
+      "tiempo": 29.8
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922e00"
+      },
+      "tiempo": 23.2
+    },
+    {
+      "nadador": {
+        "$oid": "64175304b42c6ec240922e09"
+      },
+      "tiempo": 23.1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641754b9b42c6ec240922e0d"
+  },
+  "estilo": {
+    "$oid": "64174f69b42c6ec240922e03"
+  },
+  "ronda": "Finales",
+  "nro_carrera": 1,
+  "nadadores": [
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dfe"
+      },
+      "tiempo": 27.5
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922e00"
+      },
+      "tiempo": 23.2
+    },
+    {
+      "nadador": {
+        "$oid": "64175304b42c6ec240922e09"
+      },
+      "tiempo": 23.1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64175c71b42c6ec240922e12"
+  },
+  "estilo": {
+    "$oid": "64174f69b42c6ec240922e04"
+  },
+  "ronda": "Eliminatorias",
+  "nro_carrera": 1,
+  "nadadores": [
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dfc"
+      },
+      "tiempo": 21.8
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dfd"
+      },
+      "tiempo": 22.4
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dfe"
+      },
+      "tiempo": 29.7
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dff"
+      },
+      "tiempo": 20.9
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922e00"
+      },
+      "tiempo": 23.2
+    },
+    {
+      "nadador": {
+        "$oid": "64175304b42c6ec240922e09"
+      },
+      "tiempo": 24.1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64175c71b42c6ec240922e13"
+  },
+  "estilo": {
+    "$oid": "64174f69b42c6ec240922e04"
+  },
+  "ronda": "Finales",
+  "nro_carrera": 1,
+  "nadadores": [
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dfc"
+      },
+      "tiempo": 21.8
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dfd"
+      },
+      "tiempo": 22.4
+    },
+    {
+      "nadador": {
+        "$oid": "64174e43b42c6ec240922dff"
+      },
+      "tiempo": 20.9
+    }
+  ]
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64174f69b42c6ec240922e03"
+  },
+  "nombre": "Libre",
+  "distancia": 50
+},{
+  "_id": {
+    "$oid": "64174f69b42c6ec240922e04"
+  },
+  "nombre": "Pecho",
+  "distancia": 50
+},{
+  "_id": {
+    "$oid": "64174f69b42c6ec240922e05"
+  },
+  "nombre": "Espalda",
+  "distancia": 50
+},{
+  "_id": {
+    "$oid": "64174f69b42c6ec240922e06"
+  },
+  "nombre": "Mariposa",
+  "distancia": 50
+}]

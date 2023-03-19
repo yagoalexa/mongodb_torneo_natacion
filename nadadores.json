@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64174e43b42c6ec240922dfc"
+  },
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "edad": 25,
+  "sexo": "Masculino",
+  "equipo": "Equipo A"
+},{
+  "_id": {
+    "$oid": "64174e43b42c6ec240922dfd"
+  },
+  "nombre": "Alexandra",
+  "apellido": "Gomez",
+  "edad": 25,
+  "sexo": "Masculino",
+  "equipo": "Equipo A"
+},{
+  "_id": {
+    "$oid": "64174e43b42c6ec240922dfe"
+  },
+  "nombre": "Pedro",
+  "apellido": "Pérez",
+  "edad": 25,
+  "sexo": "Masculino",
+  "equipo": "Equipo A"
+},{
+  "_id": {
+    "$oid": "64174e43b42c6ec240922dff"
+  },
+  "nombre": "Maria",
+  "apellido": "Cardona",
+  "edad": 25,
+  "sexo": "Masculino",
+  "equipo": "Equipo A"
+},{
+  "_id": {
+    "$oid": "64174e43b42c6ec240922e00"
+  },
+  "nombre": "Joel",
+  "apellido": "Gomez",
+  "edad": 25,
+  "sexo": "Masculino",
+  "equipo": "Equipo A"
+},{
+  "_id": {
+    "$oid": "64175304b42c6ec240922e09"
+  },
+  "nombre": "Sebastian",
+  "apellido": "Velasquez",
+  "edad": 36,
+  "sexo": "Masculino",
+  "equipo": "Equipo A"
+}]
